@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @坂元　恵太
+- 👋 Hi, I’m @sakamoto keita
 - 👀 I’m interested in artificial Intelligence
 - 🌱 I’m currently learning how to make AI
 - 💞️ I’m looking to collaborate on ...
